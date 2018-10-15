@@ -3,6 +3,8 @@
      -moz-box-sizing: border-box; /* Firexfox */
      -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
      box-sizing: border-box; /* IE */
+     background: #D9ECF2;
+     font-family: 'Annie Use Your Telescope', cursive;
 }
 
 /* Clear fix hack */
@@ -27,26 +29,69 @@
     float: left;
     padding: 0 10px 10px 0; /* note the padding around a left floated image */
 }
+body{
 
+}
+h1{
+  font-family: 'Annie Use Your Telescope', cursive;
+  text-align: center;
+  font-size: 44px;
+  color: #1D3F58;
+  margin-top: 0;
+}
+ul {
+  list-style-image: url("check2.png");
+  width: 30%;
+  margin-left: 37%;
+}
+small{
+  margin-left: 20%;
+}
 #topSec{
   height: 500px;
   width: 100%;
-  border: 1px solid black;
   text-align: center;
 }
 
 #topSec section{
   text-align: center;
-  border: 1px solid red;
   width: 50%;
   float: left;
-  margin-left: 20%;
+}
+#toDoList{
+  margin-left: 21%;
 }
 #list li{
   color: gray;
   text-decoration: line-through;
 }
 #list li.new{
-  color: black;
+  color: #1D3F58;
   text-decoration: none;
+  font-size: 1.2em;
+  font-weight: bold;
+  list-style: square;
+  list-style-image: url("check2.png");
+}
+#inputSec{
+  margin-left: 20%;
+}
+input{
+  margin-left: 27%;
+  color: #1D3F58;
+  font-size: 1.2em;
+  font-weight: bold;
+  width: 40%;
+  border: 3px solid #94DBA7;
+}
+#buttons{
+  margin-left: 26%;
+}
+button {
+  background: #BE5E76;
+  color: white;
+  border: none;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-right: 3%;
 }

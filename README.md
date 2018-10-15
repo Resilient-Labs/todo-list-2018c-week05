@@ -1,22 +1,29 @@
-# ✅ Week05 Bootcamp2018c Project: Todo List
+# My To-Do List
+This project is a to-do list for users to enter items and remove items once completed.
 
-### Goal: Build a Simple Todo List
+**Link to project:** https://tender-ritchie-caee3b.netlify.com/
 
-### How to submit your code for review:
+![alt tag](screencap.png)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**Tech used:** HTML, CSS, JavaScript
+
+Using JavaScript I designed a simple navigation between an array of images. When the user clicks "next" the image source would be updated to the next image in the array. When the user clicks "back" the image source would be updated with the previous image in the array. It was necessary to consider edge cases such as when the user has reached the end of the array and clicks "next", or when they have reached the first index and click "back"
+
+## Optimizations
+
+One feature I would like to add to this project is the ability for users to delete or add new images into the carousel.
+
+## Lessons Learned:
+
+Looping through an array continuously!
+
+## Examples:
+Take a look at these couple examples that I have in my own portfolio:
+
+**Palettable:** https://github.com/alecortega/palettable
+
+**Twitter Battle:** https://github.com/alecortega/twitter-battle
+
+**Patch Panel:** https://github.com/alecortega/patch-panel
