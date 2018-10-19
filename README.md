@@ -24,6 +24,6 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Carousel:** https://mystifying-stallman-5862e0.netlify.com/
 
-**Attendance List:** https://github.com/alecortega/twitter-battle
+**Attendance List:** https://sleepy-franklin-b8d685.netlify.com/
 
 **Slot Machine:** https://github.com/alecortega/patch-panel
