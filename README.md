@@ -9,7 +9,7 @@ This project is a to-do list for users to enter items and remove items once comp
 
 **Tech used:** HTML, CSS, JavaScript
 
-Using JavaScript I designed a simple to-do of list items. When the user enters a new to-do list item it is added unto the list. The user has the ability to click on list items as they are completed. When clicked on, the completed list items are gray with a line through. The user is also able to clear the completed items or the entire list of items. 
+Using JavaScript I designed a simple to-do of list items. When the user enters a new to-do list item it is added unto the list. The user has the ability to click on list items as they are completed. When clicked on, the completed list items are gray with a line through. The user is also able to clear the completed items or the entire list of items.
 
 ## Optimizations
 
@@ -19,8 +19,8 @@ One feature I would like to add to this project is the ability for users to edit
 
 Event delegation, the ability to apply formatting and event listeners to items that are not there when the DOM renders.
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+## Related Projects:
+Take a look at these cool projects that I have in my portfolio:
 
 **Carousel:** https://mystifying-stallman-5862e0.netlify.com/
 
