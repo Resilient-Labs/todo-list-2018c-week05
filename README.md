@@ -22,8 +22,8 @@ Looping through an array continuously!
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Carousel:** https://mystifying-stallman-5862e0.netlify.com/
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**Attendance List:** https://github.com/alecortega/twitter-battle
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**Slot Machine:** https://github.com/alecortega/patch-panel
