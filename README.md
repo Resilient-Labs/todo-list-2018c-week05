@@ -26,4 +26,4 @@ Take a look at these cool projects that I have in my portfolio:
 
 **Attendance List:** https://sleepy-franklin-b8d685.netlify.com/
 
-**Slot Machine:** https://github.com/alecortega/patch-panel
+**Slot Machine:** https://tender-brahmagupta-7fb0c7.netlify.com/
