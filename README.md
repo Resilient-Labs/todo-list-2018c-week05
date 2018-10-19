@@ -1,22 +1,15 @@
-# ✅ Week05 Bootcamp2018c Project: Todo List
+```# My Awesome Project
+Createed a pretty awesome to do list that also uses local storage to save any lists youve already made cae you want to take a look back on any thifng you have done 
 
-### Goal: Build a Simple Todo List
+## How It's Made:
 
-### How to submit your code for review:
+**Tech used:** HTML, CSS, JavaScript
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+The bulk of this app is in myt javascript, and my pride and joy was gettig to use locl storage as well. 
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Optimizations
+if given more time to finish id like to see if there are any areas i can make the code more dry.
+
+## Lessons Learned:
+
+the bigges lesson I learned on this projct was Local storage it was tough but i was able to make it work in a way that i really imppressed myself
