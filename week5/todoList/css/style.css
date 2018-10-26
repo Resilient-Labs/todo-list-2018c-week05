@@ -1,0 +1,11 @@
+#menu {
+  width: 300px;
+  margin: 0 auto;
+}
+
+input {
+  display: block;
+  width: 74%;
+}
+
+.stroked{ text-decoration: line-through; }

@@ -1,22 +1,17 @@
-# ✅ Week05 Bootcamp2018c Project: Todo List
+About Project
+========================================
+This project was a simple todo list. It took me longer than anticipated to finish this. I think I sucked too much time on trying to connect to local storage. The styling could have been way better if I spent less time on add extra functionality
 
-### Goal: Build a Simple Todo List
 
-### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+How it was made:
+============================================
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
+JavaScript, css. Html
+
+
+what I've learned
+============================================
+-I need to use my time more wisely when building applications
+-A good balance between design and functionality is important.
 ```

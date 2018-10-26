@@ -1,0 +1,39 @@
+.circle {
+  position: relative;
+  background: teal;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+ 
+}
+
+.circle:hover {
+  transition: all .2s ease-in-out; 
+  transform: scale(1.4); 
+}
+
+.triangle {
+  position: relative;
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-top: 100px solid red;
+}
+
+.triangle:hover {
+  transition: all .2s ease-in-out; 
+  transform: scale(1.4); 
+}
+
+.square {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background: purple;
+}
+
+.square:hover {
+  transition: all .2s ease-in-out; 
+  transform: scale(1.4); 
+}

@@ -1,0 +1,66 @@
+body {
+  font-family: 'Indie Flower', cursive;
+  background: url("background.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover; /* For WebKit*/
+  -moz-background-size: cover;    /* Mozilla*/
+  -o-background-size: cover;      /* Opera*/
+  background-size: cover;         /* Generic*/
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  display: block;
+  text-align: center;
+}
+
+.hide {
+  display: none;
+}
+
+.appear {
+  display: block;
+}
+
+.list {
+  list-style: none;
+  text-align: center;
+  font-size: 35px;
+}
+
+button {
+  border:none;
+  background: #333;
+  color: #fff;
+  margin: 10px;
+  padding: 10px;
+  transition: all .2s ease-in-out;
+
+}
+
+input {
+  text-align: center;
+  margin: 10px 0;
+}
+
+input, 
+button {
+  border-radius: 5px;
+  width: 300px;
+  height: 70px;
+  font-size: 35px;
+  font-family: 'Indie Flower', cursive;
+}
+
+button:hover { transform: scale(1.1); }
+
+textarea, select, input, button { outline: none; }
+
+.btnContainer, 
+.form, 
+.listContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
