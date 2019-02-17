@@ -1,22 +1,23 @@
-# ✅ Week05 Bootcamp2018c Project: Todo List
+# Todo List
+Build a Simple Todo List
 
-### Goal: Build a Simple Todo List
+**Link to project:** https://boring-kilby-e4acbc.netlify.com
 
-### How to submit your code for review:
+![alt tag](to-do.png)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**Tech used:** HTML5, CSS3, JavaScript.
+Styling for this project was done using a CSS Grid layout. Written in vanilla Javascript.
+
+## Lessons Learned:
+Learned about event propragation and how to change behavior for elements in Javascript that were not hard coded in the HTML.  Also learned how to save the user input data to local storage.
+
+## Examples:
+
+
+**OOP Calculator:** https://github.com/Eriquette/week01-alumni-project-calculator/tree/answer
+
+**Carousel Picture Gallery:** https://github.com/Eriquette/carousel-bootcamp2018c-week05/blob/answer
+
+**Daily Code Challenges:** https://github.com/Eriquette/Daily-Code-Challenges
